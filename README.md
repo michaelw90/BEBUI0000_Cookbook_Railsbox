@@ -1,4 +1,4 @@
-BEBUI0000_Cookbook_Railsbox
-===========================
-
-A Chef cookbook aimed at setting up a rails box, just how I like it.
+Description
+===========
+A Chef Cookbook with the intention of setting up a Ruby on Rails server, ready for Capistrano deployment
+of multiple applications.
