@@ -4,10 +4,33 @@
     <list default="true" id="81340c91-4c1d-423e-a552-e47fdda56b47" name="Default" comment="" />
     <ignored path="BEBUI0000_Cookbook_Railsbox.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466063925" ignored="false" />
-    <file path="/a.dummy" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466128862" ignored="false" />
+    <file path="/Dummy.txt" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376567325022" ignored="false" />
+    <file path="/a.dummy" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376560257012" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/Berksfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466298557" ignored="false" />
-    <file path="/metadata.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466285211" ignored="false" />
+    <file path="/metadata.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376566006013" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/nodes/myrackbox.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466454664" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/Berksfile.lock" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466493286" ignored="false" />
+    <file path="/visual.css.scss" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376559904005" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEPEN0001_Courseware_Engine/source/stylesheets/screens/components/visual.css.scss" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376560263841" ignored="false" />
+    <file path="/display.haml" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376560238344" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEPEN0001_Courseware_Engine/source/views/screens/components/visual/display.haml" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376565724002" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEPEN0001_Courseware_Engine/source/javascripts/views/screens/components/visual.coffee" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376560095720" ignored="false" />
+    <file path="/visual.coffee" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376557905081" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEPEN0001_Courseware_Engine/source/views/screens/components/visual/edit.haml" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376560242635" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/Berksfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376565169938" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/cookbooks/deployment_server/recipes/default.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376565951615" ignored="false" />
+    <file path="/default.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376565951615" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/cookbooks/deployment_server/metadata.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376566006335" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/nodes/192.168.50.4.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376569597287" ignored="false" />
+    <file path="$PROJECT_DIR$/../BERAF0014_NNL_Career_Pathway/config/deploy.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376651351320" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/Vagrantfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376644697882" ignored="false" />
+    <file path="/deploy.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376651258815" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/Vagrantfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376636168323" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/configure.sh" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376636162158" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/configure.sh" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376650425482" ignored="false" />
+    <file path="/configure.sh" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376644750934" ignored="false" />
+    <file path="$PROJECT_DIR$/../BERAF0014_NNL_Career_Pathway/Gemfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376651882280" ignored="false" />
+    <file path="/Gemfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376651881505" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +45,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -59,6 +81,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -67,17 +90,7 @@
     <favorites_list name="BEBUI0000_Cookbook_Railsbox" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="metadata.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/metadata.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="25" selection-start="398" selection-end="398" vertical-scroll-proportion="0.17366628">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -88,12 +101,13 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/recipes/setup.rb" />
-        <option value="$PROJECT_DIR$/recipes/default.rb" />
         <option value="$PROJECT_DIR$/attributes/default.rb" />
+        <option value="$PROJECT_DIR$/recipes/default.rb" />
         <option value="$PROJECT_DIR$/metadata.rb" />
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -126,7 +140,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -176,6 +189,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,13 +197,13 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -293,7 +307,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JSON Formatter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2524013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -363,18 +377,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Berksfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attributes/default.rb">
@@ -384,16 +389,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipes/default.rb">
+    <entry file="file://$PROJECT_DIR$/metadata.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="24" selection-start="94" selection-end="94" vertical-scroll-proportion="0.05788876">
+        <state line="13" column="53" selection-start="471" selection-end="471" vertical-scroll-proportion="0.2508513">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/metadata.rb">
+    <entry file="file://$PROJECT_DIR$/Berksfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="25" selection-start="398" selection-end="398" vertical-scroll-proportion="0.17366628">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipes/default.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="20" selection-start="115" selection-end="115" vertical-scroll-proportion="0.07718502">
           <folding />
         </state>
       </provider>
