@@ -11,8 +11,6 @@ recipe 'cookbook_railsbox', 'Ruby on Rails server, ready for Capistrano deployme
   supports os
 end
 
-%w{build-essential sqlite databox rackbox imagemagick}.each do |cb|
+%w{build-essential sqlite newrelic databox rackbox imagemagick}.each do |cb|
   depends cb
 end
-
-depends 'newrelic', git: 'git@github.com:heavywater/chef-newrelic.git'
