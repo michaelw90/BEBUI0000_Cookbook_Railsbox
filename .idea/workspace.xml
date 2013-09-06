@@ -111,7 +111,7 @@
       <file leaf-file-name="Berksfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Berksfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="33" selection-start="58" selection-end="58" vertical-scroll-proportion="0.07718502">
+            <state line="4" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.07718502">
               <folding />
             </state>
           </provider>
@@ -480,14 +480,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/metadata.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="35" selection-start="453" selection-end="453" vertical-scroll-proportion="0.2508513">
+        <state line="15" column="3" selection-start="511" selection-end="511" vertical-scroll-proportion="0.28944382">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Berksfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="33" selection-start="58" selection-end="58" vertical-scroll-proportion="0.07718502">
+        <state line="4" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.07718502">
           <folding />
         </state>
       </provider>
