@@ -41,7 +41,7 @@
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/nodes/162.13.46.184.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1377877836254" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0001_BuildEmpire_Website/config/deploy.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1377881173419" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0001_BuildEmpire_Website/config/environments/production.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1377879874171" ignored="false" />
-    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/nodes/95.138.189.131.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378477940126" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/nodes/95.138.189.131.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378480504503" ignored="false" />
     <file path="/95.138.189.131.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378477914466" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/cookbooks/appbox/attributes/default.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378477439215" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/cookbooks/appbox/metadata.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378477439215" ignored="false" />
@@ -117,6 +117,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="default.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recipes/default.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="32" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="metadata.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/metadata.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -139,8 +148,8 @@
         <option value="$PROJECT_DIR$/recipes/setup.rb" />
         <option value="$PROJECT_DIR$/attributes/default.rb" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
-        <option value="$PROJECT_DIR$/recipes/default.rb" />
         <option value="$PROJECT_DIR$/Berksfile" />
+        <option value="$PROJECT_DIR$/recipes/default.rb" />
         <option value="$PROJECT_DIR$/metadata.rb" />
       </list>
     </option>
@@ -482,7 +491,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/recipes/default.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="25" selection-start="95" selection-end="95" vertical-scroll-proportion="0.05788876">
+        <state line="3" column="32" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
