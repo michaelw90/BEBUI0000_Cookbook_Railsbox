@@ -3,7 +3,7 @@ maintainer_email 'fred.thompson@buildempire.co.uk'
 license          'Apache 2.0'
 description      'Ruby on Rails server, ready for Capistrano deployment.'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.1.9'
+version          '0.2.0'
 
 recipe 'cookbook_railsbox', 'Ruby on Rails server, ready for Capistrano deployment.'
 
@@ -11,6 +11,6 @@ recipe 'cookbook_railsbox', 'Ruby on Rails server, ready for Capistrano deployme
   supports os
 end
 
-%w{build-essential sqlite databox rackbox imagemagick}.each do |cb|
+%w{build-essential sqlite newrelic databox rackbox imagemagick}.each do |cb|
   depends cb
 end
