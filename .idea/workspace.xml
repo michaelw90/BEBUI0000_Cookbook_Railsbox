@@ -7,7 +7,7 @@
     <file path="/Dummy.txt" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376567325022" ignored="false" />
     <file path="/a.dummy" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376560257012" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/Berksfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466298557" ignored="false" />
-    <file path="/metadata.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378478334971" ignored="false" />
+    <file path="/metadata.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378479278971" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/nodes/myrackbox.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466454664" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/Berksfile.lock" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466493286" ignored="false" />
     <file path="/visual.css.scss" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376559904005" ignored="false" />
@@ -111,7 +111,7 @@
       <file leaf-file-name="Berksfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Berksfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="70" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -120,7 +120,7 @@
       <file leaf-file-name="metadata.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/metadata.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="26" selection-start="444" selection-end="444" vertical-scroll-proportion="0.2508513">
+            <state line="5" column="23" selection-start="284" selection-end="284" vertical-scroll-proportion="0.09648127">
               <folding />
             </state>
           </provider>
@@ -489,14 +489,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Berksfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="70" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/metadata.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="26" selection-start="444" selection-end="444" vertical-scroll-proportion="0.2508513">
+        <state line="5" column="23" selection-start="284" selection-end="284" vertical-scroll-proportion="0.09648127">
           <folding />
         </state>
       </provider>
