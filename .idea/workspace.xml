@@ -108,10 +108,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Berksfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Berksfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Berksfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.07718502">
+            <state line="4" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metadata.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/metadata.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="23" selection-start="284" selection-end="284" vertical-scroll-proportion="0.09648127">
               <folding />
             </state>
           </provider>
@@ -131,8 +140,8 @@
         <option value="$PROJECT_DIR$/attributes/default.rb" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/recipes/default.rb" />
-        <option value="$PROJECT_DIR$/metadata.rb" />
         <option value="$PROJECT_DIR$/Berksfile" />
+        <option value="$PROJECT_DIR$/metadata.rb" />
       </list>
     </option>
   </component>
@@ -478,16 +487,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/metadata.rb">
+    <entry file="file://$PROJECT_DIR$/Berksfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="3" selection-start="511" selection-end="511" vertical-scroll-proportion="0.28944382">
+        <state line="4" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Berksfile">
+    <entry file="file://$PROJECT_DIR$/metadata.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.07718502">
+        <state line="5" column="23" selection-start="284" selection-end="284" vertical-scroll-proportion="0.09648127">
           <folding />
         </state>
       </provider>
