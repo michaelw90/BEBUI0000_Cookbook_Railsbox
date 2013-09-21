@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="PASSWORD" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="PROJECT_STATUS_DIALOG_SPLITTER_DIVIDER_LOCATION" value="500" />
+    <option name="CHANGES_STATUS_DIALOG_SPLITTER_DIVIDER_LOCATION" value="500" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="81340c91-4c1d-423e-a552-e47fdda56b47" name="Default" comment="" />
     <ignored path="BEBUI0000_Cookbook_Railsbox.iws" />
@@ -7,7 +31,7 @@
     <file path="/Dummy.txt" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376567325022" ignored="false" />
     <file path="/a.dummy" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376560257012" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/Berksfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466298557" ignored="false" />
-    <file path="/metadata.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378479436914" ignored="false" />
+    <file path="/metadata.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379713901072" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/nodes/myrackbox.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466454664" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/Berksfile.lock" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376466493286" ignored="false" />
     <file path="/visual.css.scss" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376559904005" ignored="false" />
@@ -17,7 +41,7 @@
     <file path="$PROJECT_DIR$/../BEPEN0001_Courseware_Engine/source/javascripts/views/screens/components/visual.coffee" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376560095720" ignored="false" />
     <file path="/visual.coffee" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376557905081" ignored="false" />
     <file path="$PROJECT_DIR$/../BEPEN0001_Courseware_Engine/source/views/screens/components/visual/edit.haml" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376560242635" ignored="false" />
-    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/Berksfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378478167038" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/Berksfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379759526107" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/cookbooks/deployment_server/recipes/default.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376565951615" ignored="false" />
     <file path="/default.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378476898822" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/cookbooks/deployment_server/metadata.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376566006335" ignored="false" />
@@ -25,7 +49,7 @@
     <file path="$PROJECT_DIR$/../BERAF0014_NNL_Career_Pathway/config/deploy.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376651351320" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/Vagrantfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376644697882" ignored="false" />
     <file path="/deploy.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1377880920284" ignored="false" />
-    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/Vagrantfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376636168323" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/Vagrantfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379757506809" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/configure.sh" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1377872737498" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Chef_And_Vagrant_Experiments/configure.sh" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376650425482" ignored="false" />
     <file path="/configure.sh" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376644750934" ignored="false" />
@@ -48,6 +72,7 @@
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/data_bags/node/192_168_50_4.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378477756380" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/data_bags/node/192_168_50_200.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378477756380" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/data_bags/node/95_138_189_131.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378477756380" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/nodes/162.13.114.203.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379759553999" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +87,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -98,7 +124,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -108,28 +133,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Berksfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Vagrantfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vagrantfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="61" selection-start="601" selection-end="621" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Berksfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Berksfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="8" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipes/default.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="32" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="metadata.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/metadata.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="23" selection-start="284" selection-end="284" vertical-scroll-proportion="0.09648127">
+            <state line="2" column="0" selection-start="15" selection-end="106" vertical-scroll-proportion="0.058419243">
               <folding />
             </state>
           </provider>
@@ -148,8 +164,9 @@
         <option value="$PROJECT_DIR$/recipes/setup.rb" />
         <option value="$PROJECT_DIR$/attributes/default.rb" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
-        <option value="$PROJECT_DIR$/Berksfile" />
         <option value="$PROJECT_DIR$/recipes/default.rb" />
+        <option value="$PROJECT_DIR$/Vagrantfile" />
+        <option value="$PROJECT_DIR$/Berksfile" />
         <option value="$PROJECT_DIR$/metadata.rb" />
       </list>
     </option>
@@ -187,6 +204,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -236,22 +254,33 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="fcae05b8-0642-48cd-8c38-403e77502c71">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -266,6 +295,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -294,19 +336,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -370,8 +399,9 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -380,13 +410,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.6703418" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JSON Formatter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -451,18 +481,45 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/attributes/default.rb">
+    <entry file="file://$PROJECT_DIR$/metadata.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipes/default.rb">
+    <entry file="file://$PROJECT_DIR$/metadata.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="28" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Berksfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="8" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipes/default.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="32" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metadata.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="23" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attributes/default.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipes/default.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/metadata.rb">
@@ -482,6 +539,20 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/recipes/default.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="32" selection-start="102" selection-end="102" vertical-scroll-proportion="0.087628864">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metadata.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="36" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/attributes/default.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="56" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
@@ -489,23 +560,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipes/default.rb">
+    <entry file="file://$PROJECT_DIR$/Vagrantfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="32" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+        <state line="16" column="61" selection-start="601" selection-end="621" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Berksfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="8" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/metadata.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="23" selection-start="284" selection-end="284" vertical-scroll-proportion="0.09648127">
+        <state line="2" column="0" selection-start="15" selection-end="106" vertical-scroll-proportion="0.058419243">
           <folding />
         </state>
       </provider>
