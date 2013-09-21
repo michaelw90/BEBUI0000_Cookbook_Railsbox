@@ -43,7 +43,7 @@
     <file path="$PROJECT_DIR$/../BEPEN0001_Courseware_Engine/source/views/screens/components/visual/edit.haml" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376560242635" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/Berksfile" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379759526107" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/cookbooks/deployment_server/recipes/default.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376565951615" ignored="false" />
-    <file path="/default.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378476898822" ignored="false" />
+    <file path="/default.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379771960087" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/cookbooks/deployment_server/metadata.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376566006335" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/nodes/192.168.50.4.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376569597287" ignored="false" />
     <file path="$PROJECT_DIR$/../BERAF0014_NNL_Career_Pathway/config/deploy.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1376651351320" ignored="false" />
@@ -73,6 +73,11 @@
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/data_bags/node/192_168_50_200.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378477756380" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/data_bags/node/95_138_189_131.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1378477756380" ignored="false" />
     <file path="$PROJECT_DIR$/../BEBUI0000_Deployment_Server/kitchen/nodes/162.13.114.203.json" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379759553999" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Cookbook_JetBrains/metadata.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379765296113" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Cookbook_JetBrains/recipes/teamcity.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379764578686" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Cookbook_JetBrains/recipes/configure.rb" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379764582153" ignored="false" />
+    <file path="$PROJECT_DIR$/../BEBUI0000_Cookbook_JetBrains/files/default/teamcity-server.conf" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379765286247" ignored="false" />
+    <file path="/teamcity-server.conf" changelist="81340c91-4c1d-423e-a552-e47fdda56b47" time="1379765171616" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,26 +137,7 @@
     <favorites_list name="BEBUI0000_Cookbook_Railsbox" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Vagrantfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vagrantfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="61" selection-start="601" selection-end="621" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Berksfile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Berksfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="15" selection-end="106" vertical-scroll-proportion="0.058419243">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -162,11 +148,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/recipes/setup.rb" />
-        <option value="$PROJECT_DIR$/attributes/default.rb" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
-        <option value="$PROJECT_DIR$/recipes/default.rb" />
         <option value="$PROJECT_DIR$/Vagrantfile" />
         <option value="$PROJECT_DIR$/Berksfile" />
+        <option value="$PROJECT_DIR$/attributes/default.rb" />
+        <option value="$PROJECT_DIR$/recipes/default.rb" />
         <option value="$PROJECT_DIR$/metadata.rb" />
       </list>
     </option>
@@ -204,8 +190,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -254,6 +238,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,8 +254,8 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -295,19 +281,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -336,6 +309,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -391,7 +377,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -410,7 +396,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.6703418" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.6703418" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -481,6 +467,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Berksfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="15" selection-end="106" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/metadata.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -539,37 +532,37 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipes/default.rb">
+    <entry file="file://$PROJECT_DIR$/Berksfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="32" selection-start="102" selection-end="102" vertical-scroll-proportion="0.087628864">
+        <state line="2" column="0" selection-start="15" selection-end="106" vertical-scroll-proportion="0.058419243">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/metadata.rb">
+    <entry file="file://$PROJECT_DIR$/recipes/default.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="36" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+        <state line="5" column="3" selection-start="140" selection-end="140" vertical-scroll-proportion="0.14604811">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attributes/default.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="56" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Vagrantfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="61" selection-start="601" selection-end="621" vertical-scroll-proportion="0.0">
+        <state line="16" column="61" selection-start="601" selection-end="621" vertical-scroll-proportion="0.103690684">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Berksfile">
+    <entry file="file://$PROJECT_DIR$/metadata.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="15" selection-end="106" vertical-scroll-proportion="0.058419243">
+        <state line="6" column="23" selection-start="321" selection-end="321" vertical-scroll-proportion="0.17525773">
           <folding />
         </state>
       </provider>

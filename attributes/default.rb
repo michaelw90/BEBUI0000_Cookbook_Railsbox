@@ -1,1 +1,0 @@
-default[:rails_env][:user][:name]             = 'deploy'
