@@ -10,6 +10,12 @@ include_recipe 'sqlite'
 if node.attribute?(:new_relic)
   include_recipe 'newrelic-sysmond'
 end
-include_recipe 'databox'
+if node["databox"]["databases"]["mysql"]
+  include_recipe "databox::mysql"
+end
+
+if node["databox"]["databases"]["postgresql"]
+  include_recipe "databox::postgresql"
+end
 include_recipe 'rackbox'
 include_recipe 'imagemagick'
