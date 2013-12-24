@@ -1,1 +1,1 @@
-default["databox"]["databases"] = []
+default["databox"]["databases"] = {}
