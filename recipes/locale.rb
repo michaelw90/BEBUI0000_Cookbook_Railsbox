@@ -5,7 +5,7 @@
 
 execute 'Update locale' do
   lang = 'en_GB.utf8'
-  language = 'en_GB:en'
+  language = 'en_GB.utf8'
   lc_all = 'en_GB.utf8'
   command_string = "sudo update-locale LANG=#{lang}"
   command_string << " LANGUAGE=#{language}" unless language.nil?
