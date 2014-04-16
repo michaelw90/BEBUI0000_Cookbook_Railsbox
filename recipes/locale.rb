@@ -3,10 +3,12 @@
 # Recipe:: locale
 #
 
+
+
 execute 'Update locale' do
-  lang = 'en_GB.utf8'
-  language = 'en_GB.utf8'
-  lc_all = 'en_GB.utf8'
+  lang = 'en_GB.UTF-8'
+  language = 'en_GB.UTF-8'
+  lc_all = 'en_GB.UTF-8'
   command_string = "sudo update-locale LANG=#{lang}"
   command_string << " LANGUAGE=#{language}" unless language.nil?
   command_string << " LC_ALL=#{lc_all}" unless lc_all.nil?
@@ -17,4 +19,4 @@ execute 'Update locale' do
   command "sudo dpkg-reconfigure locales"
 end
 
-ENV['LANGUAGE'] = ENV['LANG'] = ENV['LC_ALL'] = "en_GB.utf8"
+ENV['LANGUAGE'] = ENV['LANG'] = ENV['LC_ALL'] = 'en_GB.UTF-8'
