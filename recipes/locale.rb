@@ -3,8 +3,6 @@
 # Recipe:: locale
 #
 
-
-
 execute 'Update locale' do
   lang = 'en_GB.UTF-8'
   language = 'en_GB.UTF-8'

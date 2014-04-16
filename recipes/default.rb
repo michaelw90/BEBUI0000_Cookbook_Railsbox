@@ -18,3 +18,4 @@ if node["databox"]["databases"]["postgresql"]
 end
 include_recipe 'rackbox'
 include_recipe 'imagemagick'
+include_recipe 'cookbook_railsbox::postpostgresql'
