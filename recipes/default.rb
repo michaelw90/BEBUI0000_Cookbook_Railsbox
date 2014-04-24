@@ -19,3 +19,4 @@ end
 include_recipe 'rackbox'
 include_recipe 'imagemagick'
 include_recipe 'cookbook_railsbox::postpostgresql'
+include_recipe "cookbook_railsbox::rackspace"
