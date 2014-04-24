@@ -9,3 +9,5 @@ default['cookbook_railsbox']['rackspace']['daily_backup_hour'] = '23'
 default['cookbook_railsbox']['rackspace']['daily_backup_minute'] = '0'
 default['cookbook_railsbox']['rackspace']['daily_database_backup_hour'] = '22'
 default['cookbook_railsbox']['rackspace']['daily_database_backup_minute'] = '0'
+
+default['build-essential']['compile_time'] = true

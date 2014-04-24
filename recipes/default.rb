@@ -11,9 +11,9 @@ if node.attribute?(:new_relic)
   include_recipe 'newrelic-sysmond'
 end
 if node["databox"]["databases"]["mysql"]
-  package "libmysqlclient-dev"
-  package "libmysql-ruby"
-  package "mysql-client"
+  #package "libmysqlclient-dev"
+  #package "libmysql-ruby"
+  #package "mysql-client"
   include_recipe "databox::mysql"
 end
 if node["databox"]["databases"]["postgresql"]
