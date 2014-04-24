@@ -13,6 +13,7 @@ end
 if node["databox"]["databases"]["mysql"]
   package "libmysqlclient-dev"
   package "libmysql-ruby"
+  package "mysql-client"
   include_recipe "databox::mysql"
 end
 if node["databox"]["databases"]["postgresql"]
