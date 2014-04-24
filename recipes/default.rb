@@ -15,8 +15,8 @@ if node["databox"]["databases"]["mysql"]
 end
 if node["databox"]["databases"]["postgresql"]
   include_recipe "databox::postgresql"
+  include_recipe 'cookbook_railsbox::postpostgresql'
 end
 include_recipe 'rackbox'
 include_recipe 'imagemagick'
-include_recipe 'cookbook_railsbox::postpostgresql'
 include_recipe "cookbook_railsbox::rackspace"
