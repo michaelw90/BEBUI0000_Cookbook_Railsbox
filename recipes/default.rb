@@ -20,3 +20,4 @@ end
 include_recipe 'cookbook_rackbox'
 include_recipe 'imagemagick'
 include_recipe "cookbook_railsbox::rackspace"
+include_recipe "cookbook_railsbox::newrelic"
