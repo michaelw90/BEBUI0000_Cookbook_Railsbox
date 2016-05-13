@@ -16,7 +16,3 @@ if node["cookbook_databox"]["databases"]["postgresql"]
 end
 include_recipe 'cookbook_rackbox'
 include_recipe 'imagemagick'
-include_recipe "cookbook_railsbox::rackspace"
-if node.attribute?(:new_relic)
-  include_recipe "cookbook_railsbox::newrelic"
-end
